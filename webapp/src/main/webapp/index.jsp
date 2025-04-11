@@ -29,7 +29,7 @@
   </div>
   <div class="container signin">
     <p>Already have an account? <a href="#">Sign in</a>.</p>
-  <h1> Thank You From Themba</h1>
+  <h1> Thank You From Themba Mathebula</h1>
    </div>
   
 </form>
